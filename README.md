@@ -17,6 +17,11 @@ It's a template to solve Classification problems with a **RandomForestClassifier
 Yo need to change the step 4 to indicate the path of your **.csv** (it can be in a github repository, or anywarte in internet, or just in your HD). the **target**, that is your dependent column, and the **iterations**, more iterations, more chances to improve the model you have. 
 Yo can download this file and work with it in jupyter. 
 
+[ClassificationRegression.Templatev1.ipynb](https://github.com/oopere/MachineLearningCourse/blob/main/Classification.Templatev1.ipynb)
+It's a template to solve Classification / Regression problems with a **RandomForestClassifier** and **RandomForestregressor** estimators fom scikit-learn framework. 
+Yo need to change the step 4 to indicate the path of your **.csv** (it can be in a github repository, or anywarte in internet, or just in your HD). the **target**, that is your dependent column, and the **iterations**, more iterations, more chances to improve the model you have. 
+Yo can download this file and work with it in jupyter. 
+
 [MLCTFCatsvsDogs.ipynb](https://github.com/oopere/MachineLearningCourse/blob/main/MLCTFCatsvsDogs.ipynb)
 First exercise with TensoFlow. It have two main parts. The fist one is temo simplest model that can exist justo solve a relationshinp between two arrays. The target is understand the sintaxis and create a **Keras** model with **Tensorflow**. 
 In the next part we are going to work with one of the most famous datasets in Macvhine Learning: cats vs dogs. We are going to solve a image problem classification, and try a lot of different models. Of course that we are going to have some problems, like overfitting. In the last part of the exercise our mission will be solve the overfiting using image augmentation and dropouts layers.

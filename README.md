@@ -17,7 +17,7 @@ It's a template to solve Classification problems with a **RandomForestClassifier
 Yo need to change the step 4 to indicate the path of your **.csv** (it can be in a github repository, or anywarte in internet, or just in your HD). the **target**, that is your dependent column, and the **iterations**, more iterations, more chances to improve the model you have. 
 Yo can download this file and work with it in jupyter. 
 
-[ClassificationRegression.Templatev1.ipynb](https://github.com/oopere/MachineLearningCourse/blob/main/Classification.Templatev1.ipynb)
+[ClassificationRegression.Templatev1.ipynb](https://github.com/oopere/MachineLearningCourse/blob/main/ClassificationRegression.Templatev1.ipynb)
 It's a template to solve Classification / Regression problems with a **RandomForestClassifier** and **RandomForestregressor** estimators fom scikit-learn framework. 
 Yo need to change the step 4 to indicate the path of your **.csv** (it can be in a github repository, or anywarte in internet, or just in your HD). the **target**, that is your dependent column, and the **iterations**, more iterations, more chances to improve the model you have. 
 Yo can download this file and work with it in jupyter. 
